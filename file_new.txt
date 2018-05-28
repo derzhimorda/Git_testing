@@ -1,1 +1,4 @@
 File two!
+
+New line test!
+New line test 2!
